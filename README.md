@@ -51,16 +51,28 @@ To get started with CricLiv, follow these steps:
 
 ## Contributing
 
-Contributions to the CricLiv project are welcome! If you'd like to contribute, please follow these steps:
+Guidelines for contributing to the project:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make the necessary changes and commit your work.
-4. Push your branch to your forked repository.
-5. Submit a pull request, describing the changes you've made.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature/your-feature
+    ```
+5. Open a pull request.
+
 
 ## Contact
 
-For any questions or inquiries about the CricLiv project, please reach out to:
-- Diljaz: [Instagram](https://instagram.com/diljaz_02?igshid=YmMyMTA2M2Y=)
+
+For more information, you can reach me at:
+- Email: diljaz@gmail.com
+- LinkedIn: [Dil Jazeel](https://www.linkedin.com/in/dil-jazeel-2985b762)
    
