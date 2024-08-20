@@ -30,5 +30,37 @@ To get started with CricLiv, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/CricLiv.git
+   git clone https://github.com/diljaz/CricLiv.git
+   
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd CricLiv
+   
+3. **Install the required dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+
+4. **Run the Flask application:**
+
+   ```bash
+   python app.py
+   
+5. **Open your web browser and navigate to `http://localhost:5000` to access the CricLiv website.**
+
+## Contributing
+
+Contributions to the CricLiv project are welcome! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make the necessary changes and commit your work.
+4. Push your branch to your forked repository.
+5. Submit a pull request, describing the changes you've made.
+
+## Contact
+
+For any questions or inquiries about the CricLiv project, please reach out to:
+- Diljaz: [Instagram](https://instagram.com/diljaz_02?igshid=YmMyMTA2M2Y=)
    
